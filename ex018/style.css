@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(255, 255, 255);
+    font: normal 16px Arial, Verdana, serif;
+    text-align: left;
+} 
+h1 {
+    text-align: left; 
+}
+h2 {
+    text-align: right;
+}
+p {
+    text-align: justify;
+    text-indent: 30px;
+}
